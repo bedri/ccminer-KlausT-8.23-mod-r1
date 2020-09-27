@@ -5,6 +5,7 @@ extern "C" {
 #include "sph/sph_keccak.h"
 #include "sph/sph_cubehash.h"
 #include "lyra2/Lyra2.h"
+#include <math.h>
 }
 
 #include "miner.h"
